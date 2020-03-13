@@ -1,0 +1,5 @@
+D:\RPA Custom Activities\Projects\NovigoSolutions.NumberToWords.Activities\NovigoSolutions.NumberToWords.Activities\bin\Debug\NovigoSolutions.NumberToWords.Activities.dll
+D:\RPA Custom Activities\Projects\NovigoSolutions.NumberToWords.Activities\NovigoSolutions.NumberToWords.Activities\bin\Debug\NovigoSolutions.NumberToWords.Activities.pdb
+D:\RPA Custom Activities\Projects\NovigoSolutions.NumberToWords.Activities\NovigoSolutions.NumberToWords.Activities\obj\Debug\NovigoSolutions.NumberToWords.Activities.csprojResolveAssemblyReference.cache
+D:\RPA Custom Activities\Projects\NovigoSolutions.NumberToWords.Activities\NovigoSolutions.NumberToWords.Activities\obj\Debug\NovigoSolutions.NumberToWords.Activities.dll
+D:\RPA Custom Activities\Projects\NovigoSolutions.NumberToWords.Activities\NovigoSolutions.NumberToWords.Activities\obj\Debug\NovigoSolutions.NumberToWords.Activities.pdb
